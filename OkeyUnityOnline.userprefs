@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Temp\Compiled-Standard.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\OkeyUnity\Okey\Assets\Card.cs">
     <Files>
-      <File FileName="Temp\Compiled-Standard.shader" Line="1" Column="1" />
+      <File FileName="..\..\OkeyUnity\Okey\Assets\Card.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
