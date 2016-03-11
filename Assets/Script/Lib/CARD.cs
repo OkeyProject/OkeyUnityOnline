@@ -4,7 +4,7 @@ using System.Collections;
 public static class CARD{
 	public static Vector3 CARD_SIZE {get{return new Vector3(0.3f, 0.05f, 0.45f);}}
 
-	public static Vector3[,] HAND_POS {	
+	public static Vector3[,] CARD_POS {	
 		get{
 			Vector3[,] positionCal = new Vector3[2, 12];
 			for (int i = 0;i < 12;i++){
@@ -14,4 +14,7 @@ public static class CARD{
 			return positionCal;
 		}
 	}
+
+	public static Vector3 CARD_ROTATION_POSITIVE {get{return new Vector3(270, 180, 0);}}
+	public static Vector3 CARD_ROTATION_NEGETIVE {get{return new Vector3(270, 0, 0);}}
 }
